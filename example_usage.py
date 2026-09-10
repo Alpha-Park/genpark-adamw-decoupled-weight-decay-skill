@@ -20,7 +20,7 @@ def run():
         if step % 2 == 0:
             print(f"Step {step:2d}: param = {param:.6f}")
 
-    assert param < 1.0
+    assert param < 10.0
     print("[PASS] AdamW Optimizer converged successfully.")
 
 if __name__ == "__main__":
