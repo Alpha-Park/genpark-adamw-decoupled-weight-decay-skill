@@ -1,0 +1,14 @@
+{
+  "name": "genpark-adamw-decoupled-weight-decay-skill",
+  "version": "1.0.0",
+  "description": "AdamW optimizer engine decoupling L2 weight decay regularization from adaptive gradient first and second moments.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "adamw",
+    "optimizer",
+    "deep-learning",
+    "weight-decay",
+    "gradient-descent"
+  ]
+}
